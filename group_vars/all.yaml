@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.ramvlecheti.store
+REDIS_HOST: redis.ramvelcheti.store
+CATALOGUE_HOST: catalogue.ramvelcheti.store
+CART_HOST: cart.ramvelcheti.store
+MYSQL_HOST: mysql.ramvelcheti.store
+SHIPPING_HOST: shipping.ramvelcheti.store
+USER_HOST: user.ramvelcheti.store
+RABBITMQ_HOST: rabbitmq.ramvelcheti.store
+PAYMENT_HOST: payment.ramvelcheti.store

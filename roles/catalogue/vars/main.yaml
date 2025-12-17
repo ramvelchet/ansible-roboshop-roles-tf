@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.ramvelcheti.store
+MONGODB_HOST: mongodb-{{ env }}.ramvelcheti.store
